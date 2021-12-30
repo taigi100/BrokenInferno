@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/07. Surt R. -- Tower Halls [Lower Floors].mp3-f397ff64d776afd721775df530b18abc.mp3str"
+
+[deps]
+
+source_file="res://assets/07. Surt R. -- Tower Halls [Lower Floors].mp3"
+dest_files=[ "res://.import/07. Surt R. -- Tower Halls [Lower Floors].mp3-f397ff64d776afd721775df530b18abc.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
